@@ -1,0 +1,21 @@
+{
+  "name": "gregwalkselectrik",
+  "version": "1.0.0",
+  "description": "Gregwalks Electrik - Quality Electronics, Lighting, and Home Security",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "electronics",
+    "lighting",
+    "security"
+  ],
+  "author": "Gregwalks Electrik",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
